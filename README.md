@@ -3,6 +3,7 @@
 This repository contains my Python learning journey.
 
 ## Topics I covered:
+
 - Modules, Comments & pip
 - Variables and Datatypes
 - Strings
@@ -15,6 +16,11 @@ This repository contains my Python learning journey.
 - Object Oriented Programming
 - Inheritance
 - Some newer python features
+
+## Mini Projects
+
+- Snake Water Gun Game
+- The Perfect Guess
 
 
 ## This repository is mainly for:
