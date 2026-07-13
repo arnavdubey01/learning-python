@@ -1,0 +1,4 @@
+Fun Fact: Guido van Rossum named the Python programming language
+after the British comedy troupe Monty Python's Flying Circus—not the snake. 
+It is a versatile, high-level language that powers modern tech from AI and
+machine learning to NASA data analysis.

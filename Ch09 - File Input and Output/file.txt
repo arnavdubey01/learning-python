@@ -1,0 +1,4 @@
+Harry is a good boy
+This is second line
+This is the third line
+This, is the fourth line"This is appended line from 04_append.py"
